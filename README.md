@@ -1,2 +1,3 @@
 # samplerepo2018
-Sample repo for intro to programming 2018 learning Git
+
+Directions: Clone this Git repository from within PythonAnywhere. Can you open this file and edit it?
